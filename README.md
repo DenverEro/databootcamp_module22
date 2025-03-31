@@ -50,4 +50,4 @@ This assignment demonstrated practical applications of SparkSQL for data analysi
 
 ## Author
 
-- Name: [Seven G]
+- [Seven G](https://github.com/DenverEro)
